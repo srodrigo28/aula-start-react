@@ -1,4 +1,4 @@
-### Como criar um projeto NodeJS
+### 1. Como criar um projeto NodeJS
     * AngularJS
     * ReactJS ( web responsive )
     * React Expo
@@ -7,10 +7,10 @@
     * NextJS Baseado em ReactJS ( web responsive )
     * Nutx
 
-### Link
+### 2. Link
     https://www.youtube.com/watch?v=tUQDzI26TLo
 
-### Criando o projeto
+### 3. Criando o projeto
     ```
     npm create vite@latest
     ```
@@ -18,10 +18,10 @@
     * voltar um diretório cd ..
     * npm i
 
-### Rodando o projeto
+### 4. Rodando o projeto
     npm run dev
 
-### Limpando o projeto
+### 6. Limpando o projeto
 ```
     function App(){
         return (
@@ -33,7 +33,15 @@
     export default App;
 ```
 
-### Bootstrap 5.3
+### 7. Comandos git
+    * git init
+    * git add .
+    * cola os comandos do repositorio
+
+### 8. usar o git clone
+    git clone https://github.com/srodrigo28/aula-start-react.git
+
+### 9. Bootstrap 5.3
     * CDNs
 ``` Javascript Bootstrap
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.min.js" ></script>
@@ -42,10 +50,11 @@
 ``` Bootstrap CSS   
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap-grid.min.css" />
 ```
-### Hooks React
+
+### 10. Hooks React
     * useState ( aula de hoje )
 
-### 1. Exemplo React com useState
+### 11. Exemplo React com useState
 ```
 import { useState } from "react";
 
@@ -68,7 +77,7 @@ function App(){
 export default App;
 ```
 
-### json-server
+### 12. json-server
     ```
     npm i json-server
     ```
@@ -77,8 +86,3 @@ export default App;
     ``` package json
         "api": " json-server --watch ./src/dados.json --port 8080 ",
     ```
-
-### Comandos git
-    * git init
-    * git add .
-    * cola os comandos do repositorio
