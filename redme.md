@@ -21,7 +21,7 @@
 ### 4. Rodando o projeto
     npm run dev
 
-### 6. Limpando o projeto
+### 5. Limpando o projeto
 ```
     function App(){
         return (
@@ -33,15 +33,15 @@
     export default App;
 ```
 
-### 7. Comandos git
+### 6. Comandos git
     * git init
     * git add .
     * cola os comandos do repositorio
 
-### 8. usar o git clone
+### 7. usar o git clone
     git clone https://github.com/srodrigo28/aula-start-react.git
 
-### 9. Bootstrap 5.3
+### 8. Bootstrap 5.3
     * CDNs
 ``` Javascript Bootstrap
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.min.js" ></script>
@@ -51,10 +51,10 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap-grid.min.css" />
 ```
 
-### 10. Hooks React
+### 9. Hooks React
     * useState ( aula de hoje )
 
-### 11. Exemplo React com useState
+### 10. Exemplo React com useState
 ```
 import { useState } from "react";
 
@@ -77,7 +77,7 @@ function App(){
 export default App;
 ```
 
-### 12. json-server
+### 11. json-server
     ```
     npm i json-server
     ```
