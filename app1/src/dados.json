@@ -1,0 +1,11 @@
+{
+    "table_cliente": [
+        {"id": 1, "name": "", "telefone" : "+55 62 9 9999-9999"},
+        {"id": 2, "name": "", "telefone" : "+55 62 9 9999-9999"}
+    ],
+
+    "table_produto": [
+        {"id": 1, "name": "", "valor" : "R$ 62,50"},
+        {"id": 2, "name": "", "valor" : "R$ 100,00"}
+    ]
+}
